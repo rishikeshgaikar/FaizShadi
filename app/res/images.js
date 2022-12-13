@@ -1,0 +1,22 @@
+export const images = {
+    aboutUs: require('./images/aboutUs.png'),
+    appLogo: require('./images/appLogo.png'),
+    conatctUs: require('./images/conatctUs.png'),
+    couple: require('./images/couple.jpeg'),
+    dashboard: require('./images/dashboard.png'),
+    defaultUser: require('./images/defaultUser.png'),
+    favorites: require('./images/favorites.png'),
+    hands: require('./images/hands.jpeg'),
+    home: require('./images/home.png'),
+    logOut: require('./images/logOut.png'),
+    myAccount: require('./images/myAccount.png'),
+    myProfile: require('./images/myProfile.png'),
+    notification: require('./images/notification.png'),
+    settings: require('./images/settings.png'),
+    family: require('./images/family.png'),
+    contact: require('./images/contact.png'),
+    career: require('./images/Bag.png'),
+    arrow: require('./images/Arrow.png'),
+    password: require('./images/password.png'),
+    goldMembership: require('./images/goldMembership.png')
+};
